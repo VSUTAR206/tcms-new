@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.footer{
+    height: 60px;
+    margin-top: 10px;
+}
+
+
+.bg-img{
+    background-image: url('./img/background10.jpg');
+
+    object-fit: contain;
+}
+
+.logo img{
+    height: 70px;
+    width: 150px;
+}
+
+
+.pointer , .card-body{
+    cursor: pointer;
+    user-select: none;
+
+}
+
+.icons{
+    font-size: 25px;
+    color: blue;
+}
